@@ -4,7 +4,7 @@ public class while2 {
 	    int x = 0;
 	    int somaTotal =0;
 	    
-	    while (x < 101) {
+	    while (x <= 100) {
 	        x++;
 	        somaTotal += x;
 	    }
